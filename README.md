@@ -25,3 +25,4 @@ Introduce Pokémon names and abilities
 Add a health bar system
 Create a graphical user interface (GUI)
 Implement multiple battle rounds and score tracking
+ run the game here https://tushar3813.github.io/Pok-mon-Type-Battle-Game/
